@@ -4,10 +4,17 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         xai: 10
+        XAI: 10
         explainable ai: 10
+        Explainable AI: 10
         explain: 2
+        explainable: 2
         gan: 10
+        GAN: 10
         generative adversarial network: 5
+        Generative Adversarial Network: 5
+        counterfactual: 10
+        Counterfactual: 10
         kaggle: 3
         deep learning: 2
 
