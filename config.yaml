@@ -16,7 +16,7 @@ keywords:
         counterfactual: 10
         Counterfactual: 10
         kaggle: 3
-        deep learning: 2
+        #deep learning: 2
 
 # 通知の閾値
 score_threshold: 0
